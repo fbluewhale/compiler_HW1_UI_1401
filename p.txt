@@ -1,0 +1,10 @@
+if name1 == name2 
+        name1 = name1 +  (-23.4E-4);
+        while ab3 do {
+            if ab3 > 3
+                ab = 1;
+            else { 
+                ab = 2;
+            }
+            ab3 = ab3 - 1;
+            } 
