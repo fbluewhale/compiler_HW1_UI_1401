@@ -1,0 +1,19 @@
+S->Q
+Q->KO
+O-> S | @
+K->C | I | W | A;
+C->{S}
+I->M | N
+M->iEMeM | @
+N->iEK | iEMeN
+W->wEoK
+A->d=E;
+E->BD
+D->+B | -B| @
+B->FG
+G->*F | /F | @
+F->PJ
+J-><P | yP | >P | pP | @
+P->HU
+U->tH | qH | @
+H->(H)|d|n
